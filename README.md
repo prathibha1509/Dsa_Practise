@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/prathibha1509/Dsa_Practise/tree/master/0322-coin-change) |
+| [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,8 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
