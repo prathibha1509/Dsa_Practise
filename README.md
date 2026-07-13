@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/prathibha1509/Dsa_Practise/tree/master/0733-flood-fill) |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 ## Hash Table
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
