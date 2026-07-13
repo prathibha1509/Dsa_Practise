@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/prathibha1509/Dsa_Practise/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/prathibha1509/Dsa_Practise/tree/master/0733-flood-fill) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathibha1509/Dsa_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Hash Table
