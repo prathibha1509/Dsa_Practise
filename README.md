@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/prathibha1509/Dsa_Practise/tree/master/0322-coin-change) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathibha1509/Dsa_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/prathibha1509/Dsa_Practise/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/prathibha1509/Dsa_Practise/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathibha1509/Dsa_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/prathibha1509/Dsa_Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathibha1509/Dsa_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/prathibha1509/Dsa_Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
