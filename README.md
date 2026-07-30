@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/prathibha1509/Dsa_Practise/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prathibha1509/Dsa_Practise/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/prathibha1509/Dsa_Practise/tree/master/0733-flood-fill) |
 ## Math
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prathibha1509/Dsa_Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/0213-house-robber-ii) |
