@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/prathibha1509/Dsa_Practise/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathibha1509/Dsa_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/prathibha1509/Dsa_Practise/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/prathibha1509/Dsa_Practise/tree/master/0904-fruit-into-baskets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathibha1509/Dsa_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/prathibha1509/Dsa_Practise/tree/master/3536-maximum-product-of-two-digits) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prathibha1509/Dsa_Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/prathibha1509/Dsa_Practise/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prathibha1509/Dsa_Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
