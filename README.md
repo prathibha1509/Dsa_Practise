@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/prathibha1509/Dsa_Practise/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/prathibha1509/Dsa_Practise/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prathibha1509/Dsa_Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prathibha1509/Dsa_Practise/tree/master/0200-number-of-islands) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/prathibha1509/Dsa_Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prathibha1509/Dsa_Practise/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/prathibha1509/Dsa_Practise/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
