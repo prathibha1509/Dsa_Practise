@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prathibha1509/Dsa_Practise/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/prathibha1509/Dsa_Practise/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
