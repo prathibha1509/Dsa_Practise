@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/prathibha1509/Dsa_Practise/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prathibha1509/Dsa_Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathibha1509/Dsa_Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prathibha1509/Dsa_Practise/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/prathibha1509/Dsa_Practise/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/prathibha1509/Dsa_Practise/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prathibha1509/Dsa_Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prathibha1509/Dsa_Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prathibha1509/Dsa_Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prathibha1509/Dsa_Practise/tree/master/0098-validate-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prathibha1509/Dsa_Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/prathibha1509/Dsa_Practise/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prathibha1509/Dsa_Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prathibha1509/Dsa_Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/prathibha1509/Dsa_Practise/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prathibha1509/Dsa_Practise/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/prathibha1509/Dsa_Practise/tree/master/1683-invalid-tweets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prathibha1509/Dsa_Practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
